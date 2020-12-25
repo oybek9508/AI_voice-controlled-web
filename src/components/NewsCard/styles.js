@@ -4,24 +4,24 @@ export default makeStyles({
   media: {
     height: 250,
   },
-  //   border: {
-  //     border: "solid",
-  //   },
-  //   fullHeightCard: {
-  //     height: "100%",
-  //   },
+  border: {
+    border: "solid",
+  },
+  fullHeightCard: {
+    height: "100%",
+  },
   card: {
     display: "flex",
     flexDirection: "column",
     justifyContent: "space-between",
     borderBottom: "10px solid white",
   },
-  //   activeCard: {
-  //     borderBottom: "10px solid #22289a",
-  //   },
-  //   grid: {
-  //     display: "flex",
-  //   },
+  activeCard: {
+    borderBottom: "10px solid #22289a",
+  },
+  grid: {
+    display: "flex",
+  },
   details: {
     display: "flex",
     justifyContent: "space-between",
